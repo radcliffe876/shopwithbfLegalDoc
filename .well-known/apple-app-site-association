@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "Omar_Dinnall.com.shopwithbf.Audio-Chat"
+        ],
+        "components": [
+          {
+            "/": "/auth",
+            "comment": "TikTok Login redirect"
+          }
+        ]
+      }
+    ]
+  }
+}
